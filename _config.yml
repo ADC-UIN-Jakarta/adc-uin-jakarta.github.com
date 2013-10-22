@@ -8,14 +8,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ADC-UIN-JAKARTA
+title : ADC UIN JAKARTA
 tagline: Android Developer Community
 author :
-  name : ADC-UIN-JAKARTA
-  email : -
-  github : ADC-UIN-JAKARTA
-  twitter : -
-  feedburner : -
+  name : ADC UIN JAKARTA
+  email : ''
+  github : ADC UIN JAKARTA
+  twitter : ''
+  feedburner : ''
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
